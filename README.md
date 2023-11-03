@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oniiyhivi
-- 🌱 Studied a Software Dev HNC in Spain
+- 🌱 Studied a Multiplatform App Development HND in Spain
 - 💞️ I’m looking to collaborate on anything that can make me better at the craft
-- 📫 How to reach me: djamelnadour15@gmail.com
+- 📫 Reach me at: djamelnadour15@gmail.com
 
 <!---
 oniiyhivi/oniiyhivi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
